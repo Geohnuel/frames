@@ -1,0 +1,155 @@
+body{
+  background-image: url(../img/captura.jpg);
+  background-repeat: no-repeat;
+  background-position: bottom;
+  background-size: cover;
+  background-attachment: fixed;
+  padding-left: 7%;
+  padding-right: 7%;
+}
+.in-line{
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width:550px){
+  .hide-for-sm{
+    display: none;
+    }
+  body{
+    padding-left:0.8%;
+    padding-right:1.8%;
+    margin: 0%
+  }
+  .contenido-sm{
+
+  }
+  .sub-contenido2{
+    margin:0px;
+  }
+}
+@media (min-width:551px) and (max-width:991px){
+  .hide-for-md{
+    display: none;
+  }
+  .titulo-cont{
+
+    padding-right:3px;
+  }
+}
+
+@media (min-width:992px){
+  .hide-for-lg{
+    display: none;
+  }
+  .titulo-cont{
+    border-right: white solid 1px;
+    border-right-style: dashed;
+    padding-right:3px;
+  }
+}
+.contenedor{
+  background-color: rgba(10, 0, 100, 0.5);
+  color: white;
+  width: 100%;
+  border-radius: 5px;
+  padding: 5px;
+}
+.sub-cont1{
+  padding-bottom: 3px;
+  border-bottom: white solid 1px;
+}
+
+.titulo{
+  font-size: 50px;
+}
+.contenido1{
+  padding:5px;
+}
+.buscador{
+  text-align: center;
+  align-items: center;
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.input-buscador{
+  width:90%;
+  height: 30px;
+  font-size: 15px;
+  border-radius: 3px;
+}
+.button-serach{
+  width: 10%;
+  height: 30px;
+  padding:1px;
+  padding-top:5px;
+}
+.menu1{
+  color: #f4ff81;
+  background-color: rgba(0, 0, 155, 0.3);
+  border-radius: 5px;
+  text-align: center;
+}
+.menu1:hover{
+  list-style: none;
+  list-style-type: none;
+  color: white;
+  border: 1px solid blue;
+  text-align: center;
+}
+.favoritos{
+  margin: 10px;
+}
+.img1{
+  margin: 1px;
+  height: 60px;
+  width: 90px;
+}
+.contenido2{
+  padding: 30px;
+}
+.sub-contenido2{
+  background-color: pink;
+  border-radius: 5px;
+  padding:5px;
+  margin: 10px;
+  text-align: center;
+  margin: 3px;
+}
+h1{
+  color: gold;
+  font-size: 45px;
+}
+.img2{
+  height: 60%;
+  width:90%;
+  margin-top: 25px;
+  border-radius: 5px;
+}
+.coments{
+  color: black;
+  padding: 10px;
+  margin: 10px;
+  font-size: 30px;
+}
+.fi-torso{
+  color: black;
+  margin: 5px;
+  border-radius: 5px;
+  height: 30px;
+  width: 5%;
+  margin-right: 10px;
+}
+.user-coment{
+  border: 1px solid #ff80ab;
+  border-radius: 5px;
+  margin:5px;
+}
+.coment{
+  font-size: 15px;
+  padding-top: 10px;
+  text-align: left;
+}
+.input-coments{
+  margin-top: 30px;
+}
