@@ -1,0 +1,227 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0"/>
+    <!--Importar la fuente de los íconos de Google-->
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+    <!--Importar la hojas de estilos de materialize css-->
+    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+    <link rel="stylesheet" href="estilos/estilos.css">
+    <title></title>
+  </head>
+  <body>
+    <div class="background">
+
+    </div>
+    <div class="col l12">
+      <div class="row">
+        <div class="col l3 m3 s3 logo-img">
+          <img src="img/bitmap.png" width="80%" height="80%" alt="">
+        </div>
+        <div class="col l2 hide-on-small-only hide-on-medium-only texto1">
+          Vive... Guate-Maya!
+        </div>
+        <div class="col m3 hide-on-small-only hide-on-large-only offset-m3 texto1" style="margin-bottom:15px;">
+          Vive... Guate-Maya!
+        </div>
+        <div class="col m3 hide-on-medium-only hide-on-large-only offset-s3 texto2" style="margin-bottom:15px;">
+          Vive... Guate-Maya!
+        </div>
+        <div class="col l7 hide-on-small-only hide-on-medium-only ">
+          <a class="col  btn btn-small light-green" style="margin: 2px; font-size:70%" href="#"><i class="material-icons">home</i> inicio</a>
+          <a class="col  btn btn-small light-green" style="margin: 2px; font-size:70%" href="#"><i class="material-icons">location_on</i> Estiviste en...</a>
+          <a class="col  btn btn-small light-green" style="margin: 2px; font-size:70%" href="#"><i class="material-icons">star</i> Mejores Viajes</a>
+          <a class="col  btn btn-small light-green" style="margin: 2px; font-size:70%" href="#"><i class="material-icons">insert_comment</i> recomendaciones</a>
+        </div>
+      </div>
+    </div>
+    <div class="col">
+      <div class="row">
+        <div class=" m7 hide-on-small-only hide-on-large-only" style=";">
+          <a class="col  btn btn-small light-green" style="margin: 1%; font-size:60%" href="#"><i class="material-icons">home</i> inicio</a>
+          <a class="col  btn btn-small light-green" style="margin: 1%; font-size:60%" href="#"><i class="material-icons">location_on</i> Estiviste en...</a>
+          <a class="col  btn btn-small light-green" style="margin: 1%; font-size:60%" href="#"><i class="material-icons">star</i> Mejores Viajes</a>
+          <a class="col  btn btn-small light-green" style="margin: 1%; font-size:60%" href="#"><i class="material-icons">insert_comment</i> recomendaciones</a>
+        </div>
+        <div class="row m4 hide-on-small-only hide-on-large-only " style="padding-top:10px;">
+         <a class="col" style="margin: 2px; width:5%;" title="facebook" href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square" style="color:blue; font-size:25px;"></i></a>
+         <a class="col" style="margin: 2px; width:5%;" title="twitter" href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square" style="color:skyblue; font-size:25px;"></i></a>
+         <a class="col" style="margin: 2px; width:5%;" title="instagram" href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram" style="color:black; font-size:25px;"></i></a>
+         <a class="col" style="margin: 2px; width:5%;" title="youtube" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube" style="color:red; font-size:25px;"></i></a>
+         <a class="col" style="margin: 2px; width:5%;" title="whatsapp" href="https://www.whatsapp.com" target="_blank"><i class="fab fa-whatsapp" style="color:green; font-size:25px;"></i></a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col s12 hide-on-medium-only hide-on-large-only" style=";">
+          <a class="col s12 btn btn-small light-green" style="margin-top:5px; font-size:100%" href="#"><i class="material-icons">home</i> inicio</a>
+          <a class="col s12 btn btn-small light-green" style="margin-top:5px; font-size:100%" href="#"><i class="material-icons">location_on</i> Estiviste en...</a>
+          <a class="col s12 btn btn-small light-green" style="margin-top:5px; font-size:100%" href="#"><i class="material-icons">star</i> Mejores Viajes</a>
+          <a class="col s12 btn btn-small light-green" style="margin-bottom:15px;margin-top:5px; font-size:100%" href="#"><i class="material-icons">insert_comment</i> recomendaciones</a>
+        </div>
+        <div class="row s12 hide-on-medium-only hide-on-large-only " style="padding-top:10px;text-align:center;">
+         <a class="col" style="margin-top:15px;margin: 2px; width:18%;" title="facebook"href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square" style="color:blue; font-size:25px;"></i></a>
+         <a class="col" style="margin-top:15px;margin: 2px; width:18%;" title="twitter"href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square" style="color:skyblue; font-size:25px;"></i></a>
+         <a class="col" style="margin-top:15px;margin: 2px; width:18%;" title="instagram"href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram" style="color:black; font-size:25px;"></i></a>
+         <a class="col" style="margin-top:15px;margin: 2px; width:18%;" title="youtube"href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube" style="color:red; font-size:25px;"></i></a>
+         <a class="col" style="margin-top:15px;margin: 2px; width:18%;" title="whatsapp"href="https://www.whatsapp.com" target="_blank"><i class="fab fa-whatsapp" style="color:green; font-size:25px;"></i></a>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col l1 m1 s2 redes hide-on-medium-only hide-on-small-only" style="padding-top:10px;">
+         <a class="col" style="margin: 2px; height:25%;"title="facebook" href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-square" style="color:blue; font-size:40px;"></i></a>
+         <a class="col" style="margin: 2px; height:25%;"title="twitter" href="https://www.twitter.com" target="_blank"><i class="fab fa-twitter-square" style="color:skyblue; font-size:40px;"></i></a>
+         <a class="col" style="margin: 2px; height:25%;"title="instagram" href="https://www.instagram.com" target="_blank"><i class="fab fa-instagram" style="color:black; font-size:40px;"></i></a>
+         <a class="col" style="margin: 2px; height:25%;"title="youtube" href="https://www.youtube.com" target="_blank"><i class="fab fa-youtube" style="color:red; font-size:40px;"></i></a>
+         <a class="col" style="margin: 2px; height:25%;"title="whatsapp" href="https://www.whatsapp.com" target="_blank"><i class="fab fa-whatsapp" style="color:green; font-size:40px;"></i></a>
+        </div>
+        <div class="col l10 hide-on-small-only hide-on-medium-only"style="padding:10px;margin-left: 10px;text-align:center;">
+          <div class="row">
+            <div class="col l4">
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/champey.JPG" alt=""width="100%;"height="250px;"title="Semuc Champey">
+              </div>
+              <div class="" style="height:10%;">
+                <img class="z-depth-5"src="img/esquipulas.JPG" alt=""width="100%;"height="250px;" title="Basilica de Esquipulas">
+              </div>
+            </div>
+            <div class="col l4">
+              <div class="" style="height:100%;">
+                <img class="z-depth-5"src="img/antigua.JPG" alt=""width="100%;" height="550px" title="Antigua Guatemala">
+              </div>
+            </div>
+            <div class="col l4">
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/tikal.JPG" alt=""width="100%;"height="300px" title="Ruinas de Tikal">
+              </div>
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/castillo.JPG" alt=""width="100%;"height="200px" title="Castillo de San Felipe">
+              </div>
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/biotopo.JPG" alt=""width="100%;"height="200px" title="Biotopo del Quetzal">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col s11 hide-on-large-only hide-on-medium-only"style="text-align:center;">
+          <div class="row">
+            <div class="col s12">
+              <div class="" >
+                <img class="z-depth-5"src="img/champey.JPG" alt=""width="100%;"height="250px;"title="Semuc Champey">
+              </div>
+              <div class="" >
+                <img class="z-depth-5"src="img/esquipulas.JPG" alt=""width="100%;"height="250px;" title="Basilica de Esquipulas">
+              </div>
+              <div class="">
+                <img src="img/antigua.JPG"width="100%" height="450px" alt="">
+              </div>
+            </div>
+            <div class="col s12">
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/tikal.JPG" alt=""width="100%;"height="300px" title="Ruinas de Tikal">
+              </div>
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/castillo.JPG" alt=""width="100%;"height="200px" title="Castillo de San Felipe">
+              </div>
+              <div class="" style="height:50%;">
+                <img class="z-depth-5"src="img/biotopo.JPG" alt=""width="100%;"height="200px" title="Biotopo del Quetzal">
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="col m10 hide-on-large-only hide-on-small-only"style="text-align:center;">
+          <div class="row">
+            <div class="col m12">
+              <div class="col m6" >
+                <img class="z-depth-5"src="img/champey.JPG" alt=""width="100%;"height="250px;"title="Semuc Champey">
+              </div>
+              <div class="col m6" >
+                <img class="z-depth-5"src="img/esquipulas.JPG" alt=""width="100%;"height="250px;" title="Basilica de Esquipulas">
+              </div>
+            </div>
+            <div class="col m12">
+              <div class="col m6">
+                <img src="img/antigua.JPG"width="100%" height="450px" alt="">
+              </div>
+              <div class="col m6" style="height:50%;">
+                <img class="z-depth-5"src="img/tikal.JPG" alt=""width="100%;"height="250px" title="Ruinas de Tikal">
+              </div>
+              <div class="col m6" style="height:50%;">
+                <img class="z-depth-5"src="img/castillo.JPG" alt=""width="100%;"height="200px" title="Castillo de San Felipe">
+              </div>
+              <div class="col m6" style="height:50%;">
+                <img class="z-depth-5"src="img/biotopo.JPG" alt=""width="100%;"height="200px" title="Biotopo del Quetzal">
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col" style="text-align:center;">
+      <div class="row">
+        <div class="col l8 m10 s10">
+          <div class="col l12 articulo"style="text-align: left;;padding: 10px;margin-left:15px;">
+            <img class="img_articulo1" src="img/castillo.JPG" alt=""width="180px;"height="140px" title="Castillo de San Felipe">
+            <h5>Izabal</h5>
+            <div class="col chip" style="font-size:10px;height:21px;">
+               Fecha:01/04/2019 <i class="far fa-calendar-alt"></i>
+            </div>
+            <div class="col chip" style="font-size:10px;height:21px;">
+              Castillo de San Felipe <i class="fas fa-map-marker-alt"></i>
+            </div><br><br>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+          </div>
+          <div class="col l12 m12 s12 comentario"style="padding: 10px;margin-left:15px;margin-top:10px;">
+            <h6 style="text-align: left;color:white;">Deja tu comentario:</h6>
+            <div class="input-field col l6 m6 s6">
+              <i class="material-icons prefix"style="color:white;">perm_identity</i>
+              <input id="Nombre" type="text" class="validate">
+              <label for="Nombre">Nombre</label>
+            </div>
+            <div class="input-field col l6 m6 s6">
+              <i class="material-icons prefix"style="color:white;">email</i>
+              <input id="e-mail" type="email" class="validate">
+              <label for="e-mail"data-success:"Correcto" data-error:"Debe completar este campo">Correo</label>
+            </div>
+            <div class="input-field col l12 m12 s12">
+              <i class="material-icons prefix"style="color:white;">comment</i>
+              <input id="Comentario" type="text" class="validate">
+              <label for="Comentario">Comentario</label>
+            </div>
+            <a class="btn btn-small teal"style="margin-left:70%; margin-bottom:10px;" href="#">Publicar</a>
+          </div>
+        </div>
+        <div class="col l3 hide-on-medium-only hide-on-small-only perfil" style="margin-top:5px;text-align:center;padding:10px;border:2px solid green;border-radius:3px;margin-left:55px;">
+          <img src="img/quetzal.JPG" class="z-depth-5"alt="" style="border-radius:50%;border:2px solid green;" width="150px" height="150px">
+          <h4>El Rey Quetzal</h4>
+          <p style="color:white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+        <div class="col hide-on-large-only m10 s10 perfil" style="margin-left:20px;margin-top:5px;text-align:center;border:2px solid green;border-radius:3px;">
+          <img src="img/quetzal.JPG" class="z-depth-5" alt="" style="border-radius:50%;border:2px solid green;" width="150px" height="150px">
+          <h4>El Rey Quetzal</h4>
+          <p style="color:white;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        </div>
+      </div>
+    </div>
+  </body>
+  <script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+  <script type="text/javascript" src="js/materialize.min.js"></script>
+  <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+      crossorigin="anonymous"></script>
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+
+  <script>
+      document.addEventListener('DOMContentLoaded', function () {
+      var elems = document.querySelectorAll('.fixed-action-btn');
+      var instances = M.FloatingActionButton.init(elems, {
+        direction: 'up',
+        hoverEnabled: false
+      });
+      });
+</script>
+</html>

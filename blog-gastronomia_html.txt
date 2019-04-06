@@ -1,0 +1,150 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width,user-scalable=no">
+    <link rel="stylesheet" href="css/foundation.min.css">
+    <link rel="stylesheet" href="css/app.css">
+    <link rel="stylesheet" href="foundation-icons/foundation-icons.css">
+    <link rel="stylesheet" href="css/estilos.css">
+
+    <title></title>
+  </head>
+  <body>
+      <div class="contenedor hide-for-sm">
+        <div class="row large-12 hide-for-sm  sub-cont1">
+          <div class="col large-4 titulo-cont">
+            <h1 class="titulo">Tú cocina</h1>
+            <p style="text-align:right; border-top: 1px solid pink;border-bottom: 1px solid pink;">Elíge el platillo a tú gusto</p>
+          </div>
+        </div>
+        <div class="in-line large-12  sub-cont2">
+      <div class="col large-4 hide-for-md hide-for-sm  contenido1">
+        <div class="in-line large-12 buscador">
+          <input type="text" name="" value="" placeholder="Buscar" class="col input-buscador">
+          <div class="button group button-serach column"><i class="fi-magnifying-glass"></i></div>
+        </div>
+        <ul class="menu vertical">
+          <li><a class="menu1" href="#index.html">Inicio</a></li>
+          <li><a class="menu1" href="#index.html">Mi plato perfecto</a></li>
+          <li><a class="menu1" href="#index.html">Mis recetas</a></li>
+        </ul>
+        <div class="" >
+          <h1 style="font-size:30px;color: #f4ff81;">Favoritos:</h1>
+          <div class="favoritos large-12" style="text-align:center;">
+            <img class="img1 large-3" src="img/ensalada.JPG" alt="">
+            <img class="img1 large-3" src="img/flan.JPG" alt="">
+            <img class="img1 large-3" src="img/helado.JPG" alt="">
+          </div>
+          <div class="favoritos large-12" style="text-align:center;">
+            <img class="img1 large-3" src="img/pizza.JPG" alt="">
+            <img class="img1 large-3" src="img/pastel.JPG" alt="">
+            <img class="img1 large-3" src="img/postre.JPG" alt="">
+          </div>
+        </div>
+        <div class="historial">
+          <h1 style="font-size:30px;color: #f4ff81;">Historial:</h1>
+          <ul class="menu vertical">
+            <li><a class="menu1" href="#index.html">Clases de pastas</a></li>
+            <li><a class="menu1" href="#index.html">Postres en  5 minutos</a></li>
+            <li><a class="menu1" href="#index.html">Píe de queso</a></li>
+            <li><a class="menu1" href="#index.html">Flan de chocolate</a></li>
+            <li><a class="menu1" href="#index.html">Reposteria</a></li>
+            <li><a class="menu1" href="#index.html">Pasteles frios</a></li>
+            <li><a class="menu1" href="#index.html">Como hacer gelatinas</a></li>
+            <li><a class="menu1" href="#index.html">Masa para pizzas</a></li>
+            <li><a class="menu1" href="#index.html">Frutas de temporada</a></li>
+          </ul>
+        </div>
+      </div>
+      <div class="col large-8 medium-12 small-12 contenido2">
+        <div class="col sub-contenido2">
+          <h1>Pasta artesanal</h1>
+          <img class="img2" src="img/pasta.JPG" alt="">
+          <div class="col coments">
+            <div class="in-line user-coment">
+              <i class="fi-torso"></i>
+              <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+            <div class="in-line user-coment">
+              <i class="fi-torso"></i>
+              <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+            <div class="in-line input-coments">
+              <i class="fi-torso"></i>
+              <input class="input-coment" placeholder="Comentario..." type="text" name="" value="">
+            </div>
+            <div class="button group"style="background-color:red;border-radius:20px; margin-left:70%;">Publicar <i class="fi-upload" style="font-size: 17px;"></i></div>
+          </div>
+        </div>
+        <div class="col sub-contenido2">
+          <h1>Los mejores jugos naturales</h1>
+          <img class="img2" src="img/jugos.JPG" alt="">
+          <div class="col coments">
+            <div class="in-line user-coment">
+              <i class="fi-torso"></i>
+              <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+            <div class="in-line user-coment">
+              <i class="fi-torso"></i>
+              <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+            <div class="in-line user-coment">
+              <i class="fi-torso"></i>
+              <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+            </div>
+            <div class="in-line input-coments">
+              <i class="fi-torso"></i>
+              <input class="input-coment" placeholder="Comentario..." type="text" name="" value="">
+            </div>
+            <div class="button group"style="background-color:red;border-radius:20px; margin-left:70%;">Publicar <i class="fi-upload" style="font-size: 17px;"></i></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col small-12 hide-for-lg hide-for-md contenido-sm">
+    <div class="col small-12 sub-contenido2">
+      <h1>Pasta artesanal</h1>
+      <img class="img2" src="img/pasta.JPG" alt="">
+      <div class="col coments">
+        <div class="in-line user-coment">
+          <i class="fi-torso"></i>
+          <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+        </div>
+        <div class="in-line user-coment">
+          <i class="fi-torso"></i>
+          <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+        </div>
+        <div class="in-line input-coments">
+          <i class="fi-torso"></i>
+          <input class="input-coment" placeholder="Comentario..." type="text" name="" value="">
+        </div>
+        <div class="button group"style="background-color:red;border-radius:20px; margin-left:70%;">Publicar <i class="fi-upload" style="font-size: 17px;"></i></div>
+      </div>
+    </div>
+    <div class="col small-12 sub-contenido2">
+      <h1>Los mejores jugos naturales</h1>
+      <img class="img2" src="img/jugos.JPG" alt="">
+      <div class="col coments">
+        <div class="in-line user-coment">
+          <i class="fi-torso"></i>
+          <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+        </div>
+        <div class="in-line user-coment">
+          <i class="fi-torso"></i>
+          <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+        </div>
+        <div class="in-line user-coment">
+          <i class="fi-torso"></i>
+          <p class="coment">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor </p>
+        </div>
+        <div class="in-line input-coments">
+          <i class="fi-torso"></i>
+          <input class="input-coment" placeholder="Comentario..." type="text" name="" value="">
+        </div>
+        <div class="button group"style="background-color:red;border-radius:20px; margin-left:70%;">Publicar <i class="fi-upload" style="font-size: 17px;"></i></div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
